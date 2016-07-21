@@ -44,6 +44,7 @@ namespace ConsoleApplication2
             float Area2 = C2.CalculatArea();
             Console.WriteLine("Area = {0}", Area2);
 
+            Console.WriteLine("push the changes to github");
         }
     }
 
